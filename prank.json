@@ -2,9 +2,9 @@
 	"ADS":
 		   {
 		
-			"banner_type":"admob",
-			"inter_type":"admob",
-			"native_type":"admob",
+			"banner_type":"yandex",
+			"inter_type":"yandex",
+			"native_type":"yandex",
 			
 			
 			
