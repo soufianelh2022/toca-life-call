@@ -8,28 +8,28 @@
 			
 			
 			
-			"unity_id":"4292105",
+			"unity_id":"4873217",
 			
 		
-         "banner_yandex":"ca-app-pub56099942",
-			"interstitial_yandex":"ca-app-pub-567",
-			"native_yandex":"ca-app-pub-4567",
-			"rewarde_yandex":"ca-app-pub-4567",
+         "banner_yandex":"R-M-1723200-2",
+			"interstitial_yandex":"R-M-1723200-4",
+			"native_yandex":"R-M-1723200-3",
+			"rewarde_yandex":"R-M-1723200-5",
 
-			"banner_admob":"ca-app-pub-8183487897567629/8953918259",
-			"interstitial_admob":"ca-app-pub-4895400046434961/3623937042",
-			"native_admob":"ca-app-pub-4895400046434961/3272583256",
-			 "rewarde_admob":"ca-app-pub-4895400046434961/1596539508",  
+			"banner_admob":"",
+			"interstitial_admob":"ca-app-pub-9611218238680058/8733912395",
+			"native_admob":"ca-app-pub-9611218238680058/1074914225",
+			 "rewarde_admob":"ca-app-pub-9611218238680058/2004852515",  
    
-			"banner_admob1":"ca-app-pub-8183487897567629/7354692283",
-			"interstitial_admob1":"ca-app-pub-8183487897567629/1910793919",
-			"native_admob1":"ca-app-pub-8183487897567629/4986753083",
-			 "rewarde_admob1":"ca-app-pub-8183487897567629/1172427311",
+			"banner_admob1":"ca-app-pub-8183487897567629/6013690458",
+			"interstitial_admob1":"ca-app-pub-9611218238680058/8733912395",
+			"native_admob1":"ca-app-pub-9611218238680058/1074914225",
+			 "rewarde_admob1":"ca-app-pub-8183487897567629/5822118766",
    
-			"banner_admob2":"ca-app-pub-8183487897567629/8953918259",
-			"interstitial_admob2":"ca-app-pub-8183487897567629/1910793919",
-			"native_admob2":"ca-app-pub-8183487897567629/4986753083",
-			 "rewarde_admob2":"ca-app-pub-8183487897567629/1172427311",
+			"banner_admob2":"ca-app-pub-8183487897567629/6013690458",
+			"interstitial_admob2":"ca-app-pub-9611218238680058/8733912395",
+			"native_admob2":"ca-app-pub-9611218238680058/1074914225",
+			 "rewarde_admob2":"ca-app-pub-8183487897567629/5822118766",
    
 		   "facebook_interstitial": "79",
 		   "facebook_banner": "61",
@@ -48,7 +48,7 @@
 
 		   
 		   "appodeal_app_key" : "6183fe1ebbf93709010652b765ea2c232fe3ab59d8b5f27a",
-		   "ironsource_id" : ""
+		   "ironsource_id" : "16548931d"
 		  
 		   
   
